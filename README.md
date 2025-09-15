@@ -7,4 +7,7 @@ Learning about Linux commands using CLI GitHub codespace.
 **NOTE: Read my PDF about Linux Part1**
 
 # Class02:
+- linux Introduction Part2
+- Command syntax => Command Arguments Options
+- Hotkeys for CLI
 **NOTE: Read my PDF about Linux Part2**
